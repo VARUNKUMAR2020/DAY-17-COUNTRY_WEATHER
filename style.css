@@ -54,7 +54,7 @@ a {
     padding-bottom: 24px;
     box-shadow: 0 0 8px 0px rgba(0, 0, 0, 0.2);
     transition: all 0.2s ease-in-out;
-    background:linear-gradient( #747876,#5A665F)
+    background:linear-gradient( to right, #747876,#a5cab5)
 }
 
 .country-card:hover {
